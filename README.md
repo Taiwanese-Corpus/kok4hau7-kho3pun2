@@ -21,3 +21,4 @@ pip install KIPsupin-doc2yaml
 全部json敆做yaml 臺語國校仔課本
 npm i && npm run deploy
 ```
+就會使掠[yaml](https://taiwanese-corpus.github.io/kok4hau7-kho3pun2/臺語國校仔課本.yaml)矣
